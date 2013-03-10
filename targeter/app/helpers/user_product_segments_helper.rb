@@ -1,0 +1,2 @@
+module UserProductSegmentsHelper
+end
